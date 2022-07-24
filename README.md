@@ -1,3 +1,3 @@
-# JJJOSIPPP
+# JOSIP
 
-We do a little programming :^)
+Programming!
